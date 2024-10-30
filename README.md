@@ -21,5 +21,5 @@ This project is an automated attendance system that uses face detection and reco
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/attendance-system.git
+https://github.com/AshishhAmin/Attendance-system-using-face-detection.git
 
